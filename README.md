@@ -43,7 +43,7 @@ Glavni prozor aplikacije omogućava Vam da unosite i upravljate podacima o klije
 
 **Napomena**: Samo statusi **Zatvoren** i **Odložen** ažuriraju naloge u bazi. Status **Otvoren** uvek pravi novi unos u bazi, što omogućava unos istog ili novog uređaja za postojećeg klijenta bez ponovnog upisivanja podataka klijenta.
 
-### Čuvanje, Ažuriranje i Brisanje Naloga
+### Čuvanje i ažuriranje
 - Kliknite na **Sačuvaj Nalog** da biste snimili podatke.
 - Da biste ažurirali postojeći nalog, selektujte ga iz tabele, napravite izmene i kliknite na **Sačuvaj Nalog**.
 
