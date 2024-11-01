@@ -51,7 +51,7 @@ Glavni prozor aplikacije omogućava Vam da unosite i upravljate podacima o klije
 - Izaberite nalog i kliknite na **Obriši Nalog**.
 
 ### Štampanje i Pregled PDF-a
-- Kliknite na **Štampaj Nalog** da generišete PDF fajl radnog naloga.
+- Učitajte nalog iz baze i kliknite na **Štampaj Nalog** da odštampate radni nalog.
 - PDF fajl se može pregledati i štampati korišćenjem ugrađenog PDF pregledača.
 
 ## Statistika *Dostupno samo administratoru.
