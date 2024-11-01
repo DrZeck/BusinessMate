@@ -66,7 +66,7 @@ Glavni prozor aplikacije omogućava Vam da unosite i upravljate podacima o klije
 ## Automatska Prijava
 Aplikacija podržava automatsku prijavu logovanog korisnika. Ovo podešavanje se može promeniti u meniju aplikacije.
 
-## Backup Baze
+## Bekap Baze
 Podaci se čuvaju u `business_mate.db` bazi podataka koja se nalazi u:
 **C:\Users\VAŠ_KORISNIČKI_NALOG\Documents\BusinessMate\DB**
 
