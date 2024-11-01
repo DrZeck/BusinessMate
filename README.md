@@ -13,7 +13,7 @@
 
 ## Prijava i Registracija
 - **Prijava**: Unesite korisničko ime i lozinku da biste se prijavili. Ako je ovo prvi put da koristite aplikaciju, moraćete da registrujete administrativnog korisnika.
-- **Registracija**: Ako je administrativni korisnik već kreiran, možete dodati nove korisnike sa rolom **user**.
+- **Registracija**: Ako je administrativni korisnik već kreiran, možete dodati nove korisnike sa privilegijama **user**.
 
 ## Glavni Prozor
 Glavni prozor aplikacije omogućava Vam da unosite i upravljate podacima o klijentima, uređajima i radnim nalozima.
@@ -24,7 +24,7 @@ Glavni prozor aplikacije omogućava Vam da unosite i upravljate podacima o klije
   - Prezime
   - Telefon
   - PIB
-  - Email
+  - E-mail
 
 ### Uređaji
 - Izaberite tip uređaja i unesite:
