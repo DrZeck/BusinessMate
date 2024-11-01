@@ -9,11 +9,11 @@
 
 ### Aktivacija
 - **Prvo Pokretanje**: Aplikacija će zahtevati unos licencnog ključa.
-- Unesite svoj ključ i kliknite na **"Aktiviraj"**. Ako je ključ ispravan, aplikacija će se aktivirati.
+- Unesite svoj ključ i kliknite na **Aktiviraj**. Ako je ključ ispravan, aplikacija će se aktivirati.
 
 ## Prijava i Registracija
 - **Prijava**: Unesite korisničko ime i lozinku da biste se prijavili. Ako je ovo prvi put da koristite aplikaciju, moraćete da registrujete administrativnog korisnika.
-- **Registracija**: Ako je administrativni korisnik već kreiran, možete dodati nove korisnike sa rolom **"user"**.
+- **Registracija**: Ako je administrativni korisnik već kreiran, možete dodati nove korisnike sa rolom **user**.
 
 ## Glavni Prozor
 Glavni prozor aplikacije omogućava Vam da unosite i upravljate podacima o klijentima, uređajima i radnim nalozima.
@@ -41,17 +41,17 @@ Glavni prozor aplikacije omogućava Vam da unosite i upravljate podacima o klije
 - **Zatvoren**: Ažuriranje postojećeg naloga nakon izvršenih intervencija.
 - **Odložen**: Ažuriranje postojećeg naloga usled nabavke delova ili čekanja delova.
 
-**Napomena**: Samo statusi **"Zatvoren"** i **"Odložen"** ažuriraju naloge u bazi. Status **"Otvoren"** uvek pravi novi unos u bazi, što omogućava unos istog ili novog uređaja za postojećeg klijenta bez ponovnog upisivanja podataka klijenta.
+**Napomena**: Samo statusi **Zatvoren** i **Odložen** ažuriraju naloge u bazi. Status **Otvoren** uvek pravi novi unos u bazi, što omogućava unos istog ili novog uređaja za postojećeg klijenta bez ponovnog upisivanja podataka klijenta.
 
 ### Čuvanje, Ažuriranje i Brisanje Naloga
-- Kliknite na **"Sačuvaj Nalog"** da biste snimili podatke.
-- Da biste ažurirali postojeći nalog, selektujte ga iz tabele, napravite izmene i kliknite na **"Sačuvaj Nalog"**.
+- Kliknite na **Sačuvaj Nalog** da biste snimili podatke.
+- Da biste ažurirali postojeći nalog, selektujte ga iz tabele, napravite izmene i kliknite na **Sačuvaj Nalog**.
 
 ## Brisanje naloga *Dostupno samo administratoru.
-- Izaberite nalog i kliknite na **"Obriši Nalog"**.
+- Izaberite nalog i kliknite na **Obriši Nalog**.
 
 ### Štampanje i Pregled PDF-a
-- Kliknite na **"Štampaj Nalog"** da generišete PDF fajl radnog naloga.
+- Kliknite na **Štampaj Nalog** da generišete PDF fajl radnog naloga.
 - PDF fajl se može pregledati i štampati korišćenjem ugrađenog PDF pregledača.
 
 ## Statistika *Dostupno samo administratoru.
@@ -61,7 +61,7 @@ Glavni prozor aplikacije omogućava Vam da unosite i upravljate podacima o klije
 
 ## Podešavanja *Dostupno samo administratoru.
 - **IPS Podaci**: Unesite podatke o firmi i broju računa. Ovi podaci će biti korišćeni za generisanje IPS QR koda.
-- **Otvaranje Template-a**: Kliknite na **"Otvori Template Nalog"** da biste uredili Word template za radne naloge.
+- **Otvaranje Template-a**: Kliknite na **Otvori Template Nalog** da biste uredili Word template za radne naloge.
 
 ## Automatska Prijava
 Aplikacija podržava automatsku prijavu logovanog korisnika. Ovo podešavanje se može promeniti u meniju aplikacije.
