@@ -41,24 +41,24 @@ Glavni prozor aplikacije omogućava Vam da unosite i upravljate podacima o klije
 - **Zatvoren**: Ažuriranje postojećeg naloga nakon izvršenih intervencija.
 - **Odložen**: Ažuriranje postojećeg naloga usled nabavke delova ili čekanja delova.
 
-*Napomena*: Samo statusi **"Zatvoren"** i **"Odložen"** ažuriraju naloge u bazi. Status **"Otvoren"** uvek pravi novi unos u bazi, što omogućava unos istog ili novog uređaja za postojećeg klijenta bez ponovnog upisivanja podataka klijenta.
+**Napomena**: Samo statusi **"Zatvoren"** i **"Odložen"** ažuriraju naloge u bazi. Status **"Otvoren"** uvek pravi novi unos u bazi, što omogućava unos istog ili novog uređaja za postojećeg klijenta bez ponovnog upisivanja podataka klijenta.
 
 ### Čuvanje, Ažuriranje i Brisanje Naloga
 - Kliknite na **"Sačuvaj Nalog"** da biste snimili podatke.
 - Da biste ažurirali postojeći nalog, selektujte ga iz tabele, napravite izmene i kliknite na **"Sačuvaj Nalog"**.
-- **Brisanje Naloga**: Izaberite nalog i kliknite na **"Obriši Nalog"**. *Dostupno samo administratoru.*
+- **Brisanje Naloga**: Izaberite nalog i kliknite na **"Obriši Nalog"**. **Dostupno samo administratoru.**
 
 ### Štampanje i Pregled PDF-a
 - Kliknite na **"Štampaj Nalog"** da generišete PDF fajl radnog naloga.
 - PDF fajl se može pregledati i štampati korišćenjem ugrađenog PDF pregledača.
 
 ## Statistika
-- **Statistika**: Grafički prikaz cele godine po mesecima. *Dostupno samo administratoru.*
+- **Statistika**: Grafički prikaz cele godine po mesecima. **Dostupno samo administratoru.**
 - Godišnji prikaz u donjem levom uglu prozora samo numerički.
 - **Odabir godine**: Trenutna godina (default prikaz) sa opcijom za poslednjih 5 godina (padajući meni) u donjem desnom uglu prozora.
 
 ## Podešavanja
-- **IPS Podaci**: Unesite podatke o firmi i broju računa. Ovi podaci će biti korišćeni za generisanje IPS QR koda. *Dostupno samo administratoru.*
+- **IPS Podaci**: Unesite podatke o firmi i broju računa. Ovi podaci će biti korišćeni za generisanje IPS QR koda. **Dostupno samo administratoru.**
 - **Otvaranje Template-a**: Kliknite na **"Otvori Template Nalog"** da biste uredili Word template za radne naloge.
 
 ## Automatska Prijava
