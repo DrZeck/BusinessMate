@@ -5,7 +5,7 @@
 ## Instalacija
 
 ### Preuzimanje i Instalacija
-- Aplikaciju preuzmite sa linka.
+- Aplikaciju preuzmite sa linka:
 
 ### Aktivacija
 - **Prvo Pokretanje**: Aplikacija će zahtevati unos licencnog ključa.
