@@ -1,6 +1,6 @@
 # BusinessMate - Uputstvo za Korišćenje
 
-**BusinessMate** je aplikacija za upravljanje poslovnim procesima, dizajnirana da pomogne u vođenju radnih naloga, upravljanju klijentima i uređajima, kao i generisanju mesečnih statistika. Aplikacija je jednostavna za korišćenje, a svi podaci se čuvaju lokalno u bazi podataka.
+**BusinessMate** je aplikacija za upravljanje poslovnim procesima, dizajnirana da pomogne u vođenju radnih naloga, upravljanju klijentima i uređajima, kao i generisanju mesečnih statistika. Aplikacija je jednostavna za korišćenje, a svi podaci se čuvaju lokalno u bazi podataka i PDF fajlovima.
 
 ## Instalacija
 
