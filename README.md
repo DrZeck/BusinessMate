@@ -55,9 +55,9 @@ Glavni prozor aplikacije omogućava Vam da unosite i upravljate podacima o klije
 - PDF fajl se može pregledati i štampati korišćenjem ugrađenog PDF pregledača.
 
 ## Statistika *Dostupno samo administratoru.
-- **Statistika**: Grafički prikaz cele godine po mesecima. 
-- Godišnji prikaz u donjem levom uglu prozora samo numerički.
-- **Odabir godine**: Trenutna godina (default prikaz) sa opcijom za poslednjih 5 godina (padajući meni) u donjem desnom uglu prozora.
+- **Statistika:** Grafički prikaz cele godine po mesecima. 
+- **Godišnji prikaz:** u donjem levom uglu prozora samo numerički.
+- **Odabir godine:** Trenutna godina (default prikaz) sa opcijom za poslednjih 5 godina (padajući meni) u donjem desnom uglu prozora.
 
 ## Podešavanja *Dostupno samo administratoru.
 - **IPS Podaci**: Unesite podatke o firmi i broju računa. Ovi podaci će biti korišćeni za generisanje IPS QR koda.
