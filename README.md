@@ -12,8 +12,8 @@
 - Unesite svoj ključ i kliknite na **Aktiviraj**. Ako je ključ ispravan, aplikacija će se aktivirati.
 
 ## Prijava i Registracija
-- **Prijava**: Unesite korisničko ime i lozinku da biste se prijavili. Ako je ovo prvi put da koristite aplikaciju, moraćete da registrujete administrativnog korisnika.
-- **Registracija**: Ako je administrativni korisnik već kreiran, možete dodati nove korisnike sa privilegijama **user**.
+- **Prijava**: Unesite korisničko ime i lozinku da biste se prijavili. Ako je ovo prvi put da koristite aplikaciju, moraćete da registrujete administratora.
+- **Registracija**: Ako je administrator već registrovan, možete dodavati nove korisnike.
 
 ## Glavni Prozor
 Glavni prozor aplikacije omogućava Vam da unosite i upravljate podacima o klijentima, uređajima i radnim nalozima.
