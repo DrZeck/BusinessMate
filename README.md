@@ -87,5 +87,5 @@ Aplikacija podržava automatsku prijavu logovanog korisnika. Ovo podešavanje se
 ![Otpremnica](images/Otpremnica.png)
 
 ## License
-This software is proprietary and not open source.
+This software is proprietary and **not** open source.
 
