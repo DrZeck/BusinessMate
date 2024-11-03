@@ -73,7 +73,17 @@ Aplikacija podržava automatsku prijavu logovanog korisnika. Ovo podešavanje se
 - Radni nalozi se čuvaju u folderu:
 - **C:\Users\VAŠ_KORISNIČKI_NALOG\Documents\BusinessMate\Radni Nalozi**
 
-## Tehnička Podrška
-U slučaju problema sa aplikacijom, obratite se tehničkoj podršci ili pošaljite e-mail sa opisom greške.
+## Screenshots
 
-Hvala što koristite **BusinessMate**!
+### Interfejs
+![User Interface](images/ui.png)
+
+### Statistika
+![Statistika](images/Statistika.png)
+
+### Prijemnica
+![Prijemnica](images/Prijemnica.png)
+
+### Otpremnica
+![Otpremnica](images/Otpremnica.png)
+
