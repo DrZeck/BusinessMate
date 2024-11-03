@@ -8,7 +8,7 @@
 - Aplikaciju preuzmite u sekciji **Releases.**
 
 ### Aktivacija
-- **Prvo Pokretanje**: Aplikacija će zahtevati unos licencnog ključa.
+- **Prvo Pokretanje**: Aplikacija će zahtevati unos ključa.
 - Unesite svoj ključ i kliknite na **Aktiviraj**. Ako je ključ ispravan, aplikacija će se aktivirati.
 
 ## Prijava i Registracija
