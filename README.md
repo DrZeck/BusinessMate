@@ -62,6 +62,7 @@ Glavni prozor aplikacije omogućava Vam da unosite i upravljate podacima o klije
 ## Podešavanja *Dostupno samo administratoru.
 - **IPS Podaci**: Unesite podatke o firmi i broju računa. Ovi podaci će biti korišćeni za generisanje IPS QR koda.
 - **Otvaranje Template-a**: Kliknite na **Otvori Template Nalog** da biste uredili Word template za radne naloge.
+- Template se otvara sa default aplikacijom za rad sa office dokumentima koju imate instaliranu na računaru.
 
 ## Automatska Prijava
 Aplikacija podržava automatsku prijavu logovanog korisnika. Ovo podešavanje se može promeniti u meniju aplikacije.
