@@ -69,9 +69,9 @@ Aplikacija podržava automatsku prijavu logovanog korisnika. Ovo podešavanje se
 
 ## Lokacija dokumenata i baze
 - Podaci se čuvaju u `business_mate.db` bazi podataka koja se nalazi u:
-- **C:\Users\%userprofile%\Documents\BusinessMate\DB**
+- **Documents\BusinessMate\DB**
 - Radni nalozi se čuvaju u folderu:
-- **C:\Users\%userprofile%\Documents\BusinessMate\Radni Nalozi**
+- **Documents\BusinessMate\Radni Nalozi**
 
 
 ### Interfejs
